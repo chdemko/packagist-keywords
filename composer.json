@@ -1,0 +1,5 @@
+{
+	"require": {
+		"knplabs/packagist-api": "1.*@dev"
+	}
+}
