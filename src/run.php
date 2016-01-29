@@ -63,7 +63,7 @@ $n = 0;
 
 foreach ($client->all() as $key => $name)
 {
-	echo $key . '-' . $name . PHP_EOL;
+	echo 'Analyzing ' . $key . '-' . $name . PHP_EOL;
 
 	try
 	{
@@ -124,7 +124,7 @@ if ($handle)
 
 	foreach ($client->all() as $key => $name)
 	{
-		echo $key . '-' . $name . PHP_EOL;
+		echo 'Storing ' . $key . '-' . $name . PHP_EOL;
 
 		try
 		{
