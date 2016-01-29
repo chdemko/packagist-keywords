@@ -1,5 +1,19 @@
 {
 	"name": "chdemko/packagist-keywords",
+	"type": "project",
+	"description": "Extract the projects from packagist.org which are linked to the main keywords",
+	"keywords": ["packagist","projects","keywords"],
+	"homepage": "http://github.com/chdemko/packagist-keywords",
+	"license": "CECILL-B",
+	"version": "1.0.0-dev",
+	"authors": [
+		{
+			"name": "Christophe Demko",
+			"email": "chdemko@gmail.com",
+			"homepage": "http://chdemko.com",
+			"role": "Developer"
+		}
+	],
 	"require": {
 		"knplabs/packagist-api": "1.*@dev"
 	}
