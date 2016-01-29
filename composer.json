@@ -1,4 +1,5 @@
 {
+	"name": "chdemko/packagist-keywords",
 	"require": {
 		"knplabs/packagist-api": "1.*@dev"
 	}
