@@ -1,5 +1,9 @@
 packagist-keywords
 ==================
+[![Downloads](https://poser.pugx.org/chdemko/packagist-keywords/d/total.png)](https://packagist.org/packages/chdemko/packagist-keywords)
+[![Latest Stable Version](https://poser.pugx.org/chdemko/packagist-keywords/version.png)](https://packagist.org/packages/chdemko/packagist-keywords)
+[![Latest Unstable Version](https://poser.pugx.org/chdemko/packagist-keywords/v/unstable.png)](https://packagist.org/packages/chdemko/packagist-keywords)
+[![License](https://poser.pugx.org/chdemko/packagist-keywords/license.png)](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
 
 This software has been realized to extract the projects from packagist.org which are linked to the main keywords.
 
