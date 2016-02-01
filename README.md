@@ -1,5 +1,5 @@
-php-packagist-keywords
-======================
+packagist-keywords
+==================
 
 This software has been realized to extract the projects from packagist.org which are linked to the main keywords.
 
