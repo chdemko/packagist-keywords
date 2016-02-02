@@ -20,7 +20,7 @@ Usage
 Example: get data for projects using keywords which are in the 20 most used and which are used by at least 10% of the projects.
 
 ~~~
-./src/run.sh --output=filename.csv --max=20 --ratio=0.10
+./cli/packagist-keywords.sh --output=filename.csv --max=20 --ratio=0.10
 ~~~
 
 * if `output` is not provided, a default filename is produced;
