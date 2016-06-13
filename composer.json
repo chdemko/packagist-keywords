@@ -1,9 +1,9 @@
 {
-	"name": "chdemko/packagist-keywords",
+	"name": "thegalactic/php-packagist-keywords",
 	"type": "project",
 	"description": "Extract the projects from packagist.org which are linked to the main keywords",
 	"keywords": ["packagist","projects","keywords"],
-	"homepage": "http://github.com/chdemko/packagist-keywords",
+	"homepage": "http://github.com/thegalactic/php-packagist-keywords",
 	"license": "CECILL-B",
 	"version": "1.0.0-dev",
 	"authors": [

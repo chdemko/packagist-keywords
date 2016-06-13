@@ -5,6 +5,7 @@
  * 
  * @author     Christophe Demko <chdemko@gmail.com>
  * @copyright  2016 Christophe Demko, France.
+ * @copyright  2016 The Galactic Organization, France
  * @license    http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html CeCILL-B license
  */
 
