@@ -1,8 +1,6 @@
 php-packagist-keywords
 ======================
 [![Downloads](https://img.shields.io/packagist/dt/thegalactic/php-packagist-keywords.svg)](https://packagist.org/packages/thegalactic/php-packagist-keywords)
-[![Latest Stable Version](https://img.shields.io/packagist/v/thegalactic/php-packagist-keywords/version.png)](https://packagist.org/packages/thegalactic/php-packagist-keywords)
-[![Latest Unstable Version](https://img.shields.io/packagist/vpre/thegalactic/php-packagist-keywords/version.png)](https://packagist.org/packages/thegalactic/php-packagist-keywords)
 [![License](https://img.shields.io/packagist/l/thegalactic/php-packagist-keywords.svg)](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
 
 This software has been realized to extract the projects from packagist.org which are linked to the main keywords.
