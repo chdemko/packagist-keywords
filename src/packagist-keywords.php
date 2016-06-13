@@ -8,7 +8,7 @@
  * @license    http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html CeCILL-B license
  */
 
-require_once __DIR__ . '/../vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 // Get the options
 $options = getopt('o::m::r::', ['output::', 'max::', 'ratio::']);
