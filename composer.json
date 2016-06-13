@@ -16,5 +16,10 @@
 	],
 	"require": {
 		"knplabs/packagist-api": "1.*@dev"
+	},
+	"extra": {
+	"branch-alias": {
+			"dev-master": "1.0.0-dev"
+		}
 	}
 }
