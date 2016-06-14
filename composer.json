@@ -15,7 +15,8 @@
 		}
 	],
 	"require": {
-		"knplabs/packagist-api": "1.*@dev"
+		"knplabs/packagist-api": "1.*@dev",
+		"dariuszp/cli-progress-bar": "^1.0"
 	},
 	"extra": {
 	"branch-alias": {

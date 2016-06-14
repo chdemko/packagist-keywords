@@ -15,13 +15,15 @@ composer require thegalactic/php-packagist-keywords:dev-master
 Usage
 -----
 
-Example: get data for projects using keywords which are in the 20 most used and which are used by at least 10% of the projects.
+Example: get data for projects using keywords which are in the 20 most used and which are used by at least 10% of the projects keeping
+10 keywords minimum.
 
 ~~~
 ./vendor/thegalactic/php-packagist-keywords/cli/packagist-keywords.sh\
     --output=filename.csv\
     --max=20\
-    --ratio=0.10
+    --ratio=0.10\
+    --min=10
 ~~~
 
 * if `output` is not provided, a default filename is produced;
