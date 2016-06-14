@@ -28,5 +28,6 @@ Example: get data for projects using keywords which are in the 20 most used and 
 
 * if `output` is not provided, a default filename is produced;
 * if `max` is not provided, all keywords are considered;
+* if `min` is not provided, there is no minimum number of keywords required;
 * if `ratio` is not provided, its default is 0.
 
