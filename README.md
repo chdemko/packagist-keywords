@@ -9,7 +9,7 @@ Installation using composer
 ---------------------------
 
 ~~~
-composer require thegalactic/php-packagist-keywords:dev-master
+composer require thegalactic/packagist-keywords:dev-master
 ~~~
 
 Usage
@@ -19,7 +19,7 @@ Example: get data for projects using keywords which are in the 20 most used and 
 10 keywords minimum.
 
 ~~~
-./vendor/thegalactic/php-packagist-keywords/cli/packagist-keywords.sh\
+./vendor/thegalactic/packagist-keywords/cli/packagist-keywords.sh\
     --output=filename.csv\
     --max=20\
     --ratio=0.10\
