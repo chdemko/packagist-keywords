@@ -1,5 +1,5 @@
 {
-	"name": "thegalactic/php-packagist-keywords",
+	"name": "thegalactic/packagist-keywords",
 	"type": "project",
 	"description": "Extract the projects from packagist.org which are linked to the main keywords",
 	"keywords": ["packagist","projects","keywords"],
